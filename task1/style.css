@@ -1,0 +1,12 @@
+div > h2 {
+    color:blue;
+} 
+strong {
+    color: brown;
+
+}
+blockquote span {
+color: yellow; font-weight: bold;
+}
+ol li strong {font-style: italic;
+}
